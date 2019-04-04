@@ -9,8 +9,8 @@
 
 ## OpenGL ES3.0 概述
 
-    OpenGL ES 3.0实现了具有可编程着色功能的图形管线，由两个规范组成：OpenGL ES 3.0 API 规范和OpenGL ES着色语言3.0规范(OpenGL ES SL)。
-    下图展示了OpenGl ES 3.0 API图形管线图，图中带有阴影方框表示OpenGl ES 3.0 中管线的可编程阶段，下面概述OpenGl ES 3.0图形管线的各个阶段：
+OpenGL ES 3.0实现了具有可编程着色功能的图形管线，由两个规范组成：OpenGL ES 3.0 API 规范和OpenGL ES着色语言3.0规范(OpenGL ES SL)。
+下图展示了OpenGl ES 3.0 API图形管线图，图中带有阴影方框表示OpenGl ES 3.0 中管线的可编程阶段，下面概述OpenGl ES 3.0图形管线的各个阶段：
 
 - ![image](https://github.com/Victor2018/OpenGlProLib/raw/master/docs/opengl3_graphics_pipeline.png)
 
